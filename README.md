@@ -17,7 +17,7 @@
 
 | Repo | What it does |
 |------|--------------|
-| [`jibaoproxy-python`](https://github.com/jibaoproxyofficial-pixel/jibaoproxy-python) | Official Python SDK — rotating sessions, geo targeting, sticky IPs, async-ready |
+| [`jibaoproxy-python`](https://github.com/jibaoproxyofficial-pixel/jibaoproxy-python) | Official Python SDK (`pip install jibaoproxy`) — rotating sessions, geo targeting, sticky IPs, async-ready |
 | [`free-proxy-tester`](https://github.com/jibaoproxyofficial-pixel/free-proxy-tester) | Benchmark free public proxies — see why "free" usually costs more |
 
 ### Why teams use us
