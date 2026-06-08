@@ -1,0 +1,2 @@
+[2026-05-28T09:02:41.009Z] GET https://www.reddit.com/user/Horror-Squirrel4142/ → 200 (301ms, ?B)
+[2026-05-28T09:02:41.317Z] GET https://www.reddit.com/user/Horror-Squirrel4142/?solution=36f977d15c2f4fad36f977d15c2f4fad&js_challenge=1&token=bbbe4bf1c9a2b5160829c4be34da5861b2f2386a38c7bb7ba45e2140989b2781&jsc_orig_r= → 403 (76ms, ?B)

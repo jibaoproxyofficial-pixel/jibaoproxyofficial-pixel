@@ -8,16 +8,21 @@
 <p align="center">
   <a href="https://jibaoproxy.com">jibaoproxy.com</a> ·
   <a href="https://jibaoproxy.com/doc">Docs</a> ·
+  <a href="https://check.jibaoproxy.com">JA3 check</a> ·
   <a href="mailto:support@jibaoproxy.com">Support</a>
 </p>
 
 ---
 
-### What we build
+### Open-source tools
 
 | Repo | What it does |
 |------|--------------|
 | [`jibaoproxy-python`](https://github.com/jibaoproxyofficial-pixel/jibaoproxy-python) | Official Python SDK (`pip install jibaoproxy`) — rotating sessions, geo targeting, sticky IPs, async-ready |
+| [`scrapy-rotating-proxy-middleware`](https://github.com/jibaoproxyofficial-pixel/scrapy-rotating-proxy-middleware) | Scrapy: rotate proxies and auto-retry on Cloudflare / DataDome / PerimeterX bans |
+| [`playwright-proxy-authentication`](https://github.com/jibaoproxyofficial-pixel/playwright-proxy-authentication) | Playwright: authenticated + rotating proxies, a fresh exit IP per context |
+| [`selenium-proxy-auth`](https://github.com/jibaoproxyofficial-pixel/selenium-proxy-auth) | Selenium + Chrome: authenticated proxies without selenium-wire |
+| [`ja3-fingerprint-checker`](https://github.com/jibaoproxyofficial-pixel/ja3-fingerprint-checker) | CLI: print the JA3/TLS fingerprint your client or proxy sends, with a bot verdict |
 | [`free-proxy-tester`](https://github.com/jibaoproxyofficial-pixel/free-proxy-tester) | Benchmark free public proxies — see why "free" usually costs more |
 
 ### Why teams use us
@@ -35,4 +40,3 @@
 ---
 
 <p align="center"><sub>Questions? Open an issue on any repo, or email <a href="mailto:support@jibaoproxy.com">support@jibaoproxy.com</a>.</sub></p>
-
